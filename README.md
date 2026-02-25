@@ -29,7 +29,7 @@ Instalación rápida:
 
 ```bash
 pip install ortools pandas numpy matplotlib seaborn
-
+```
 ---
 
 ## Datos de entrada
